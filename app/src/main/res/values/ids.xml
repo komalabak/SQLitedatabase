@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextName" type="id" />
+    <item name="editTextPhone" type="id" />
+    <item name="editTextEmail" type="id" />
+    <item name="editTextStreet" type="id" />
+    <item name="editTextCity" type="id" />
+    <item name="button1" type="id" />
+</resources>
